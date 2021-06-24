@@ -6,6 +6,7 @@
 
 This project entails creating a webapp that allows only members to post and view full details of the post, the title body and poster. It also allows public to view the posts but the post are anonymous. It test implemetation o of authentification and session features in rails.
 
+
 ## Built With
 
 
